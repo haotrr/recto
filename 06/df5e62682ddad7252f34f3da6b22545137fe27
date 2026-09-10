@@ -1,0 +1,27 @@
+index.html
+  s_8c241fdeb5f334::t_7d186dded9942c 1-35
+posts/2026-09-10-hello.md
+  s_8c241fdeb5f334::t_15bc0b1bfb8d96 1-5
+p/hello/index.html
+  s_8c241fdeb5f334::t_7d186dded9942c 1-38
+README.md
+  s_8c241fdeb5f334::t_4c530b743eb441 1-18
+feed.xml
+  s_8c241fdeb5f334::t_7d186dded9942c 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "06df5e62682ddad7252f34f3da6b22545137fe27",
+  "prompts": {},
+  "sessions": {
+    "s_8c241fdeb5f334": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "f50b793f-976d-406a-be65-87a700a3aece",
+        "model": "composer-2.5-fast"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

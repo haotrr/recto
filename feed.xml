@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>haotrr</title>
+    <link>https://recto.haotrr.com/</link>
+    <description>haotrr</description>
+    <item>
+      <title>你好，Recto</title>
+      <link>https://recto.haotrr.com/p/hello/</link>
+      <guid>https://recto.haotrr.com/p/hello/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <description>这是 Recto 的第一篇示例稿，用来打通生成和发布。</description>
+    </item>
+  </channel>
+</rss>

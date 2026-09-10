@@ -1,0 +1,29 @@
+templates/chrome.html
+  s_3c98004c351ae2::t_5f032df10cf583 1-30
+styles.css
+  s_3c98004c351ae2::t_78224763e3f691 1-210
+gen.sh
+  s_3c98004c351ae2::t_6636318a7e0be0 1-243
+templates/feed.xml
+  s_3c98004c351ae2::t_d753144b5c57a2 1-9
+templates/home.html
+  s_3c98004c351ae2::t_9eb552f385fead 1-2
+templates/post.html
+  s_3c98004c351ae2::t_bb45e6d3812074 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "21d23d3bff0e3388ed2d0d5db86be9076285de6c",
+  "prompts": {},
+  "sessions": {
+    "s_3c98004c351ae2": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "684596f2-5a42-4855-b53e-35d5332e6e00",
+        "model": "composer-2.5-fast"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

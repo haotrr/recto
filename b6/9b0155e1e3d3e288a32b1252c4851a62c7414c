@@ -1,0 +1,21 @@
+CNAME
+  s_88271f4d5fc370::t_05f42f7bb1d76d 1
+.github/workflows/pages.yml
+  s_88271f4d5fc370::t_2fb17f980aac67 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b69b0155e1e3d3e288a32b1252c4851a62c7414c",
+  "prompts": {},
+  "sessions": {
+    "s_88271f4d5fc370": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7f92a0ad-2157-48b1-b09d-aaf000eb698d",
+        "model": "composer-2.5-fast"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

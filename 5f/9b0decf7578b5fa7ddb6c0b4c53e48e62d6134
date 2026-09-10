@@ -1,0 +1,25 @@
+testdata/bad/notes.md
+  s_dd4577c740d137::t_ee3191686ed03e 1-5
+testdata/dup/2026-01-01-same.md
+  s_dd4577c740d137::t_390631c3b86b4d 1-5
+testdata/dup/2026-09-10-same.md
+  s_dd4577c740d137::t_993e7fb3c10b5c 1-5
+test.sh
+  s_dd4577c740d137::t_44bb141d6fe7d0 51-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5f9b0decf7578b5fa7ddb6c0b4c53e48e62d6134",
+  "prompts": {},
+  "sessions": {
+    "s_dd4577c740d137": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "428eeac5-fd8a-479d-a1ee-d43c284ca708",
+        "model": "composer-2.5-fast"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

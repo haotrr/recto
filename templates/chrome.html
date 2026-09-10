@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{PAGE_TITLE}}</title>
+  <link rel="stylesheet" href="{{CSS_HREF}}">
+  <link rel="alternate" type="application/rss+xml" title="haotrr" href="{{FEED_HREF}}">
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap site-header-inner">
+    <a class="brand" href="{{HOME_HREF}}">
+      <span class="avatar">h</span>
+      <span class="brand-name">haotrr</span>
+    </a>
+    <nav class="nav">
+      <a href="{{HOME_HREF}}" class="is-active">文章</a>
+      <a href="{{FEED_HREF}}">RSS</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap page">
+{{CONTENT}}
+</main>
+<footer class="wrap site-footer">
+  haotrr · <a href="{{FEED_HREF}}">RSS</a>
+</footer>
+</body>
+</html>

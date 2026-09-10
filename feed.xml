@@ -5,11 +5,46 @@
     <link>https://recto.haotrr.com/</link>
     <description>haotrr</description>
     <item>
-      <title>你好，Recto</title>
-      <link>https://recto.haotrr.com/p/hello/</link>
-      <guid>https://recto.haotrr.com/p/hello/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
-      <description>这是 Recto 的第一篇示例稿，用来打通生成和发布。</description>
+      <title>致朋友的信</title>
+      <link>https://recto.haotrr.com/p/zhi-pengyou-de-xin/</link>
+      <guid>https://recto.haotrr.com/p/zhi-pengyou-de-xin/</guid>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0800</pubDate>
+      <description>写给朋友，也写给自己。上海九年，工作五年。</description>
+    </item>
+    <item>
+      <title>再谈职业素养</title>
+      <link>https://recto.haotrr.com/p/zai-tan-zhiye-suyang/</link>
+      <guid>https://recto.haotrr.com/p/zai-tan-zhiye-suyang/</guid>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0800</pubDate>
+      <description>离职清代码时发现：不要预设需求，要让代码容易改。</description>
+    </item>
+    <item>
+      <title>分寸感</title>
+      <link>https://recto.haotrr.com/p/fencun-gan/</link>
+      <guid>https://recto.haotrr.com/p/fencun-gan/</guid>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0800</pubDate>
+      <description>距离产生美。称呼叫得越贱，往往越亲密。</description>
+    </item>
+    <item>
+      <title>谈职业素养</title>
+      <link>https://recto.haotrr.com/p/zhiye-suyang/</link>
+      <guid>https://recto.haotrr.com/p/zhiye-suyang/</guid>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0800</pubDate>
+      <description>业务过关，对事不对人，克制情绪。自己还没充分做到，先记下来。</description>
+    </item>
+    <item>
+      <title>2018 总结</title>
+      <link>https://recto.haotrr.com/p/2018-zongjie/</link>
+      <guid>https://recto.haotrr.com/p/2018-zongjie/</guid>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+      <description>用几条微博和几本书，回顾这一年。</description>
+    </item>
+    <item>
+      <title>Norwegian Wood</title>
+      <link>https://recto.haotrr.com/p/norwegian-wood/</link>
+      <guid>https://recto.haotrr.com/p/norwegian-wood/</guid>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0800</pubDate>
+      <description>从一句歌词的改写，说到误译成了「挪威的森林」。</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,37 @@
+testdata/posts/2026-09-10-newer.md
+  s_f80c2924afb99c::t_eb65ed5221e78d 1-6
+testdata/posts/2026-01-01-older.md
+  s_f80c2924afb99c::t_9c5cbf96165548 1-5
+test.sh
+  s_f80c2924afb99c::t_0576070ef23d15 1-54
+.cursorignore
+  s_aeb5fc267bf1fe::t_0867954e043deb 1-7
+docs/superpowers/plans/2026-09-10-recto-blog.md
+  s_f80c2924afb99c::t_87260399cd0c3d 1-1105
+docs/superpowers/specs/2026-09-10-recto-blog-design.md
+  s_f80c2924afb99c::t_c8f0a3998f6714 1-258
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2e362fb5548913899b57192c20d11943644edd5d",
+  "prompts": {},
+  "sessions": {
+    "s_aeb5fc267bf1fe": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ba8ea598-cc64-47fb-a88d-81373a1998f7",
+        "model": "grok-4.6"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    },
+    "s_f80c2924afb99c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "51a15d45-e109-49c2-b152-3db41d6a2dd5",
+        "model": "composer-2.5-fast"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

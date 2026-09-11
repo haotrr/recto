@@ -1,0 +1,25 @@
+gen.sh
+  s_141d49b4a78ddf::t_49604aec226db0 88,98-103,133,155
+README.md
+  s_141d49b4a78ddf::t_49604aec226db0 13-14
+.github/workflows/pages.yml
+  s_141d49b4a78ddf::t_49604aec226db0 25-29,32
+posts/2020-07-04-zhi-pengyou-de-xin.md
+  s_141d49b4a78ddf::t_49604aec226db0 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "269af31299731d1d3e1b1bc8c34eafb565e5b229",
+  "prompts": {},
+  "sessions": {
+    "s_141d49b4a78ddf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08e08-a5a7-7a01-a44e-4f2743ca7552",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

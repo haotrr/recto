@@ -179,7 +179,7 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .prose > *:first-child { margin-top: 0; }
 .prose > *:last-child { margin-bottom: 0; }
-.prose p { margin: 0.7em 0; }
+.prose p { margin: 1.2em 0; }
 .prose h2, .prose h3 {
   font-family: var(--font-heading);
   letter-spacing: -0.015em;

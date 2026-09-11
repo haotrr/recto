@@ -1,0 +1,44 @@
+p/how-to-live-a-good-life/index.html
+  s_48b2f2714492b6::t_f496567eacc3b6 1-43
+p/professionalism-revisited/index.html
+  s_48b2f2714492b6::t_9487fb6a99b180 1-50
+p/personal-boundaries/index.html
+  s_48b2f2714492b6::t_9487fb6a99b180 1-42
+p/professionalism/index.html
+  s_48b2f2714492b6::t_9487fb6a99b180 1-46
+index.html
+  s_48b2f2714492b6::t_9487fb6a99b180 54,58,62,65-66
+  s_48b2f2714492b6::t_f496567eacc3b6 50-53,68-72
+  s_48b2f2714492b6::t_178d87a54299c8 67
+p/what-did-i-create-today/index.html
+  s_48b2f2714492b6::t_f496567eacc3b6 1-46
+p/how-to-learn/index.html
+  s_48b2f2714492b6::t_f496567eacc3b6 1-48
+posts/2020-05-17-professionalism-revisited.md
+  s_48b2f2714492b6::t_9487fb6a99b180 1-19
+feed.xml
+  s_48b2f2714492b6::t_f496567eacc3b6 49-55,63-68,84-89
+  s_48b2f2714492b6::t_9487fb6a99b180 58-59,69,72-73,79-80,90
+posts/2020-02-04-how-to-learn.md
+  s_48b2f2714492b6::t_30a61571c0a11c 1-22
+posts/2020-02-18-how-to-live-a-good-life.md
+  s_48b2f2714492b6::t_0bdefa152e6e9e 1-16
+posts/2025-10-19-what-did-i-create-today.md
+  s_48b2f2714492b6::t_d710baf5427b34 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1c967e0fe658d6327c47f0c53ff9175a9e5a31c2",
+  "prompts": {},
+  "sessions": {
+    "s_48b2f2714492b6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09079-57c9-73f3-88be-857668afd752",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

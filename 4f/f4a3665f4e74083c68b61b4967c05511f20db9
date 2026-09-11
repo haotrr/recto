@@ -1,0 +1,78 @@
+p/flow/index.html
+  s_48b2f2714492b6::t_3d00ca661590ea 1-25,27-48
+  s_48b2f2714492b6::t_a9cdd0b47cb414 26
+p/professionalism-revisited/index.html
+  s_48b2f2714492b6::t_5e5d9cf0bbbbbf 26
+posts/2020-03-28-storytelling-for-its-own-sake.md
+  s_48b2f2714492b6::t_41cee17ffeb8b4 1-12
+p/books-that-shaped-me/index.html
+  s_48b2f2714492b6::t_71060e90df235d 1-42
+p/understanding-through-creation/index.html
+  s_48b2f2714492b6::t_1f622437a5d31b 1-42
+posts/2020-04-04-books-that-shaped-me.md
+  s_48b2f2714492b6::t_e21fabbd8719cb 1-14
+p/thoughts-on-making-money/index.html
+  s_48b2f2714492b6::t_ad2e78ad5f2fc4 1-44
+index.html
+  s_48b2f2714492b6::t_ac65f1591115ad 84,86-89,108
+  s_48b2f2714492b6::t_7aa49229f37f6b 70-73
+  s_48b2f2714492b6::t_ad2e78ad5f2fc4 74-77
+  s_48b2f2714492b6::t_644deb99bee385 90-91
+  s_48b2f2714492b6::t_71060e90df235d 54-61
+  s_48b2f2714492b6::t_a9cdd0b47cb414 62-65
+  s_48b2f2714492b6::t_1f622437a5d31b 66-69
+  s_48b2f2714492b6::t_5e5d9cf0bbbbbf 78-83,85,105-107
+posts/2020-02-27-the-power-of-short-writing.md
+  s_48b2f2714492b6::t_5ae9adfc01c9a8 1-22
+p/the-power-of-short-writing/index.html
+  s_48b2f2714492b6::t_ac65f1591115ad 1-52
+p/kikujiro/index.html
+  s_48b2f2714492b6::t_644deb99bee385 1-42
+posts/2020-03-06-thoughts-on-making-money.md
+  s_48b2f2714492b6::t_0ab7a6b420c8e2 1-18
+posts/2020-03-17-ways-of-seeing-art.md
+  s_48b2f2714492b6::t_29ce31dc7bec69 1-12
+p/building-worlds-with-technology/index.html
+  s_48b2f2714492b6::t_5e5d9cf0bbbbbf 1-41
+p/notes-on-fiction-writing/index.html
+  s_48b2f2714492b6::t_5e5d9cf0bbbbbf 1-49
+p/ways-of-seeing-art/index.html
+  s_48b2f2714492b6::t_7aa49229f37f6b 1-41
+posts/2020-03-02-notes-on-fiction-writing.md
+  s_48b2f2714492b6::t_e74a4d076b3971 1-24
+feed.xml
+  s_48b2f2714492b6::t_a9cdd0b47cb414 71-77
+  s_48b2f2714492b6::t_ad2e78ad5f2fc4 92-98
+  s_48b2f2714492b6::t_644deb99bee385 120-124
+  s_48b2f2714492b6::t_ac65f1591115ad 111,113-119,153
+  s_48b2f2714492b6::t_7aa49229f37f6b 85-91
+  s_48b2f2714492b6::t_1f622437a5d31b 78-84
+  s_48b2f2714492b6::t_5e5d9cf0bbbbbf 99-110,112,147-152
+  s_48b2f2714492b6::t_71060e90df235d 57-70
+p/storytelling-for-its-own-sake/index.html
+  s_48b2f2714492b6::t_71060e90df235d 1-41
+posts/2020-02-26-kikujiro.md
+  s_48b2f2714492b6::t_bb4f3e5e5c98ea 1-14
+posts/2020-03-01-building-worlds-with-technology.md
+  s_48b2f2714492b6::t_c5a713408009c3 1-12
+posts/2020-03-18-understanding-through-creation.md
+  s_48b2f2714492b6::t_7b94158abf51c5 1-14
+posts/2020-03-25-flow.md
+  s_48b2f2714492b6::t_e2458f8e587b54 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4ff4a3665f4e74083c68b61b4967c05511f20db9",
+  "prompts": {},
+  "sessions": {
+    "s_48b2f2714492b6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09079-57c9-73f3-88be-857668afd752",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}

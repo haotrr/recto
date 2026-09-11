@@ -85,6 +85,7 @@ def parse_post(path):
     raw_meta, body = rest[:end], rest[end + 5 :]
     title = None
     summary = ""
+    hide = False
     for line in raw_meta.splitlines():
         if not line.strip():
             continue
@@ -93,6 +94,12 @@ def parse_post(path):
             continue
         if line.startswith("summary:"):
             summary = line[8:].strip()
+            continue
+        if line.startswith("hide:"):
+            value = line[5:].strip()
+            if value not in ("true", "false"):
+                die("hide must be true or false in %s" % name)
+            hide = value == "true"
             continue
         die("unsupported YAML line in %s: %s" % (name, line))
     if not title:
@@ -123,6 +130,7 @@ def parse_post(path):
     )
     return {
         "name": name,
+        "hide": hide,
         "date": date_s,
         "slug": slug,
         "title": title,
@@ -144,6 +152,7 @@ for post in posts:
         die("duplicate slug %s: %s and %s" % (post["slug"], other, post["name"]))
     slugs[post["slug"]] = post["name"]
 
+posts = [post for post in posts if not post["hide"]]
 posts.sort(key=lambda item: (-int(item["date"].replace("-", "")), item["slug"]))
 
 chrome = (templates / "chrome.html").read_text(encoding="utf-8")

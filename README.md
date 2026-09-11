@@ -10,6 +10,8 @@ haotrr 的成稿站。线上：https://recto.haotrr.com
 4. 提交 Markdown 和生成出的 `index.html`、`p/`、`feed.xml`。
 5. push `main`，GitHub Action 会发布，不再跑生成。
 
+隐藏文章：在文首增加 `hide: true`，再运行 `./gen.sh`。文章将从首页、RSS 和文章页中移除；省略或设为 `hide: false` 则正常发布。发布仅上传站点生成物，不包含 Markdown 源文件；源文件和 Git 历史仍保留在仓库中。
+
 依赖：pandoc、python3。安装：`brew install pandoc`。
 
 ## 本地看

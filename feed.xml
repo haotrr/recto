@@ -54,11 +54,74 @@
       <description>从“我应该学什么”转向“我应该创造什么”，用作品衡量自己的成长。</description>
     </item>
     <item>
-      <title>再谈职业素养</title>
-      <link>https://recto.haotrr.com/p/professionalism-revisited/</link>
-      <guid>https://recto.haotrr.com/p/professionalism-revisited/</guid>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0800</pubDate>
-      <description>离职清代码时发现：不要预设需求，要让代码容易改。</description>
+      <title>那些影响过我的书</title>
+      <link>https://recto.haotrr.com/p/books-that-shaped-me/</link>
+      <guid>https://recto.haotrr.com/p/books-that-shaped-me/</guid>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 +0800</pubDate>
+      <description>从一部老电影想起高中读过的书，以及那些借出去后再也没有回来的书。</description>
+    </item>
+    <item>
+      <title>做一个单纯讲故事的人</title>
+      <link>https://recto.haotrr.com/p/storytelling-for-its-own-sake/</link>
+      <guid>https://recto.haotrr.com/p/storytelling-for-its-own-sake/</guid>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0800</pubDate>
+      <description>在强调效率、充满讯息的生活中，留一点时间听那些离奇而毫无寓意的故事。</description>
+    </item>
+    <item>
+      <title>心流</title>
+      <link>https://recto.haotrr.com/p/flow/</link>
+      <guid>https://recto.haotrr.com/p/flow/</guid>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0800</pubDate>
+      <description>全神贯注、投入忘我的状态，以及心流发生时的七个特征。</description>
+    </item>
+    <item>
+      <title>做出来，才算真正理解</title>
+      <link>https://recto.haotrr.com/p/understanding-through-creation/</link>
+      <guid>https://recto.haotrr.com/p/understanding-through-creation/</guid>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0800</pubDate>
+      <description>收藏不等于理解。通过写作、创造和做中学，把零散的知识连接起来。</description>
+    </item>
+    <item>
+      <title>观看艺术的方式</title>
+      <link>https://recto.haotrr.com/p/ways-of-seeing-art/</link>
+      <guid>https://recto.haotrr.com/p/ways-of-seeing-art/</guid>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0800</pubDate>
+      <description>看陈丹青《局部》第一季，思考艺术中的生机、平衡，以及媒介与观念。</description>
+    </item>
+    <item>
+      <title>关于如何赚钱</title>
+      <link>https://recto.haotrr.com/p/thoughts-on-making-money/</link>
+      <guid>https://recto.haotrr.com/p/thoughts-on-making-money/</guid>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0800</pubDate>
+      <description>从小众需求、尚未被充分满足的强需求，以及伪需求背后的真正问题中寻找机会。</description>
+    </item>
+    <item>
+      <title>《小说课》的八点笔记</title>
+      <link>https://recto.haotrr.com/p/notes-on-fiction-writing/</link>
+      <guid>https://recto.haotrr.com/p/notes-on-fiction-writing/</guid>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0800</pubDate>
+      <description>看许荣哲《小说课》演讲，记下关于信心、套路、反差、人物性格与细节的八点思考。</description>
+    </item>
+    <item>
+      <title>用技术构建自己的世界</title>
+      <link>https://recto.haotrr.com/p/building-worlds-with-technology/</link>
+      <guid>https://recto.haotrr.com/p/building-worlds-with-technology/</guid>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
+      <description>作家用文字构建世界，开发者也可以用技术和想象力创造令人惊叹的作品。</description>
+    </item>
+    <item>
+      <title>短文的力量</title>
+      <link>https://recto.haotrr.com/p/the-power-of-short-writing/</link>
+      <guid>https://recto.haotrr.com/p/the-power-of-short-writing/</guid>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0800</pubDate>
+      <description>读《精简写作》有感：写作不应盲目追求篇幅，而应关注内容和质量。</description>
+    </item>
+    <item>
+      <title>看《菊次郎的夏天》</title>
+      <link>https://recto.haotrr.com/p/kikujiro/</link>
+      <guid>https://recto.haotrr.com/p/kikujiro/</guid>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0800</pubDate>
+      <description>从电影里的童趣，想到占有与体验，以及那些简单的快乐。</description>
     </item>
     <item>
       <title>怎样过好这一生</title>
@@ -80,6 +143,13 @@
       <guid>https://recto.haotrr.com/p/professionalism/</guid>
       <pubDate>Tue, 18 Feb 2020 00:00:00 +0800</pubDate>
       <description>业务过关，对事不对人，克制情绪。自己还没充分做到，先记下来。</description>
+    </item>
+    <item>
+      <title>再谈职业素养</title>
+      <link>https://recto.haotrr.com/p/professionalism-revisited/</link>
+      <guid>https://recto.haotrr.com/p/professionalism-revisited/</guid>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0800</pubDate>
+      <description>离职清代码时发现：不要预设需求，要让代码容易改。</description>
     </item>
     <item>
       <title>工作自由</title>

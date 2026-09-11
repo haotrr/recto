@@ -1,0 +1,67 @@
+posts/2020-01-26-the-ministry-of-time.md
+  s_48b2f2714492b6::t_f93379ce2a2edf 1-16
+posts/2020-01-14-making-good-use-of-tools.md
+  s_48b2f2714492b6::t_68823ce3d76767 1-16
+posts/2020-02-02-my-ideal-cms.md
+  s_48b2f2714492b6::t_21a231209d996e 1-16
+feed.xml
+  s_48b2f2714492b6::t_252e7ab2e1975d 113-119
+  s_48b2f2714492b6::t_0a1a82a550bdc7 125,141-146
+  s_48b2f2714492b6::t_d1b9090423f1ab 84,126,134-140
+  s_48b2f2714492b6::t_cee8f7fa569120 85-95,97-98
+  s_48b2f2714492b6::t_5dea3889ea5a63 99-104
+  s_48b2f2714492b6::t_0ccbd70bbea8c8 96,112,120-124
+  s_48b2f2714492b6::t_732738ef68ea1a 127-133
+p/my-ideal-cms/index.html
+  s_48b2f2714492b6::t_252e7ab2e1975d 1-45
+p/imagining-2020/index.html
+  s_48b2f2714492b6::t_d1b9090423f1ab 1-43
+posts/2020-02-13-freedom-from-a-paycheck.md
+  s_48b2f2714492b6::t_f19452f249a35f 1-14
+p/black-swans-and-antifragility/index.html
+  s_48b2f2714492b6::t_5dea3889ea5a63 1-42
+p/first-impressions-of-remote-work/index.html
+  s_48b2f2714492b6::t_0ccbd70bbea8c8 1-46
+index.html
+  s_48b2f2714492b6::t_cee8f7fa569120 70-77
+  s_48b2f2714492b6::t_732738ef68ea1a 94-97
+  s_48b2f2714492b6::t_5dea3889ea5a63 78-80
+  s_48b2f2714492b6::t_d1b9090423f1ab 69,85,98-101
+  s_48b2f2714492b6::t_0a1a82a550bdc7 102-104
+  s_48b2f2714492b6::t_252e7ab2e1975d 86-89
+  s_48b2f2714492b6::t_0ccbd70bbea8c8 90-93
+posts/2020-02-01-first-impressions-of-remote-work.md
+  s_48b2f2714492b6::t_0ccbd70bbea8c8 1-22
+p/remote-work-revisited/index.html
+  s_48b2f2714492b6::t_cee8f7fa569120 1-27,29-42
+  s_48b2f2714492b6::t_0ccbd70bbea8c8 28
+p/freedom-from-a-paycheck/index.html
+  s_48b2f2714492b6::t_cee8f7fa569120 1-44
+p/the-ministry-of-time/index.html
+  s_48b2f2714492b6::t_732738ef68ea1a 1-45
+p/making-good-use-of-tools/index.html
+  s_48b2f2714492b6::t_0a1a82a550bdc7 1-43
+posts/2020-01-25-imagining-2020.md
+  s_48b2f2714492b6::t_5d6077d39d3ecf 1-16
+posts/2020-02-11-remote-work-revisited.md
+  s_48b2f2714492b6::t_ff75f87ed3c048 1-2,4-5,7-14
+  s_48b2f2714492b6::t_0ccbd70bbea8c8 3,6
+posts/2020-02-07-black-swans-and-antifragility.md
+  s_48b2f2714492b6::t_458f7d870c629f 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "37a183174a6d902f1bd67a686208fddbac61dc26",
+  "prompts": {},
+  "sessions": {
+    "s_48b2f2714492b6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09079-57c9-73f3-88be-857668afd752",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "haotrr <qinhao@qimao.com>"
+    }
+  }
+}
